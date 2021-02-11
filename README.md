@@ -1,5 +1,6 @@
 # Hackintosh-Catalina-Acer-e5-476g
-Hackintosh Catalina Acer e5 476g (EFI)
+Hackintosh Catalina Acer e5 476g i5 8250u (EFI)
+
 
 ## Detail
 ```
