@@ -38,4 +38,4 @@ Status: Stable
 1. Discrete Graphics: GeForce MX150 2 GB GDDR5
 2. SIRI
 
-Follow me => [a link] (https://instagaram.com/temamumtaza)
+Follow me => https://instagaram.com/temamumtaza
