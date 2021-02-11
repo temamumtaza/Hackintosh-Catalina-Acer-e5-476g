@@ -39,4 +39,4 @@ Status: Stable
 2. SIRI
 ```
 
-Follow me => https://instagaram.com/temamumtaza
+Follow me => [a link] (https://instagaram.com/temamumtaza)
