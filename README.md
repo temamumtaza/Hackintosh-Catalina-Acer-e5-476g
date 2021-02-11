@@ -37,6 +37,5 @@ Status: Stable
 ```
 1. Discrete Graphics: GeForce MX150 2 GB GDDR5
 2. SIRI
-```
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 Follow me => [a link] (https://instagaram.com/temamumtaza)
